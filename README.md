@@ -1,4 +1,4 @@
-## Hi I'm Himanshi Sharma 👋
+## Hi I'm Himanshi Sharma 
 
 <h3 align="center">A Curious Mind Exploring Computer Vision, LangChain, and LLMs with Python</h3>
 
