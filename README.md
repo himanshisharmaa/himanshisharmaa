@@ -5,7 +5,7 @@
 ### 🔗 Socials
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>https://www.linkedin.com/in/himanshisharmaa</a>
+  <a href="https://linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>https://www.linkedin.com/in/himanshisharmaa</a> <br>
   <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" alt="Gmail"/>himanshisharma99588@gmail.com</a>
 </p>
 
